@@ -1,4 +1,15 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there! 👋 welcome to my Github Profile! </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif">
+</p>
+
+<p align="center">
+  <samp>
+    Check out my repos ⬇️  
+  </samp>
+</p>
+
 
 <!--
 **Salanoid/Salanoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
