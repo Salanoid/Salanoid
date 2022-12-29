@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there! 👋 </samp></h4>
 
 <p align="center">
-  <img width="20" src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif">
+  <img width="85" src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif">
 </p>
 
 <p align="center">
