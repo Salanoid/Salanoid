@@ -1,14 +1,14 @@
-<h4 align="center"><samp> Hi there! 👋 </samp></h4>
+<h4 align="center"><samp> 👋 </samp></h4>
 
 <p align="center">
   <img width="85" src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <samp>
     Check out my repos ⬇️  
   </samp>
-</p>
+</p> -->
 
 
 <!--
