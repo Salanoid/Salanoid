@@ -1,5 +1,3 @@
-<h4 align="center"><samp> 👋 </samp></h4>
-
 <p align="center">
   <img width="85" src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif">
 </p>
