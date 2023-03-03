@@ -7,7 +7,7 @@ Ruby developer
 *   🌍  I'm based in Brasov, Romania.
 *   ✉️  You can contact me at [salanoid@gmail.com](mailto:salanoid@gmail.com)
 *   🚀  I'm currently working at [Cubus Arts S.R.L.](https://cubus.ro/) on [factureaza.ro](http://factureaza.ro)
-*   🧠  I'm learning Rust and frontend frameworks like React and Svelte.
+*   🧠  I'm learning functional programming with clojure and elixir and frontend frameworks like React with typescript.
 *   😄  My pronouns are He/Him.
 
 ### Skills 
