@@ -6,8 +6,8 @@ Ruby developer
 
 *   🌍 Hi there! I'm a Ruby developer based in Brasov, Romania.
 *   🚀  I'm currently working at [Cubus Arts S.R.L.](https://cubus.ro/) on [factureaza.ro](https://factureaza.ro) which has an international version on [online-billing-service.com](https://online-billing-service.com).
-*   🧠  In addition to my work with Ruby, I'm also learning functional programming with Elixir and Clojure.
-*   Although I specialize in backend development, I'm also interested in frontend frameworks like React, Vue, and Svelte.
+*   🧠  In addition to my work with Ruby, I'm also learning functional programming with Elixir.
+*   Although I specialize in backend development, I'm also interested in frontend frameworks like Angular and React.
 *   My goal as a developer is to find elegant and effective solutions to build reliable, scalable and maintainable systems.
 *   ✉️  If you'd like to get in touch, you can reach me at [salanoid@gmail.com](mailto:salanoid@gmail.com)
 *   😄  My pronouns are he/him.
