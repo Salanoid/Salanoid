@@ -10,7 +10,6 @@ Ruby developer
 *   Although I specialize in backend development, I'm also interested in frontend frameworks like Angular and React.
 *   My goal as a developer is to find elegant and effective solutions to build reliable, scalable and maintainable systems.
 *   ✉️  If you'd like to get in touch, you can reach me at [salanoid@gmail.com](mailto:salanoid@gmail.com)
-*   😄  My pronouns are he/him.
 
 ### Skills 
 <p align="left">
